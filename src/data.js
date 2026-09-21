@@ -1,8 +1,4 @@
-/* =========================================================
-   SIWARGA — data demo (in-memory, disimpan di React state).
-   Dalam produksi, seluruh data awal ini diganti dengan
-   data dari backend/database.
-   ========================================================= */
+// data sementara, nanti diganti API
 
 export const ACCOUNTS = [
   { nik:'3273010304990002', kk:'3273011204180007', nama:'Abidzar Al-Ghifari', status:'Kepala Keluarga', anggota:4, rt:'004', rw:'006', alamat:'Jl. Melati Indah No. 24', telepon:'0812-9042-5511', email:'abidzar@warga.rw06.id', username:'abidzar', password:'warga123', role:'warga', pekerjaan:'Wiraswasta' },
